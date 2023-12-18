@@ -1,0 +1,47 @@
+.label2 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 500;
+  right: 20px;
+}
+.label1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  opacity: 0.9;
+}
+.left-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 17px;
+}
+.icon1 {
+  position: relative;
+  width: 17px;
+  height: 17px;
+  margin-left: -5px;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  font-family: var(--default-title2-regular);
+}
+.sf-or-svgsf-labelon {
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: -45px;
+  box-sizing: border-box;
+  text-align: right;
+  font-size: var(--default-body-regular-size);
+  color: var(--system-colours-default-colors-systemblue-light);
+  font-family: var(--default-body-regular);
+}

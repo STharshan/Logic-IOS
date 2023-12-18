@@ -1,0 +1,42 @@
+.sample {
+  margin: 0;
+}
+.container,
+.sample-text {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.sample-text {
+  top: 73.68%;
+  line-height: 20px;
+  display: inline-block;
+}
+.container {
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--secondary-light-purple);
+}
+.button-icon {
+  position: absolute;
+  height: 63.16%;
+  width: 60%;
+  top: 0;
+  right: 20%;
+  bottom: 36.84%;
+  left: 20%;
+}
+.icon-box {
+  position: absolute;
+  top: 0;
+  left: 240px;
+  width: 80px;
+  height: 76px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

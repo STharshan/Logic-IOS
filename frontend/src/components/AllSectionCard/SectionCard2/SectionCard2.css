@@ -1,0 +1,82 @@
+.group-child20 {
+  position: absolute;
+  height: 103.33%;
+  width: 100.58%;
+  top: -1.67%;
+  right: -0.29%;
+  bottom: -1.67%;
+  left: -0.29%;
+  border-radius: var(--br-xs);
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  border: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+}
+.mingcutedown-fill-icon1 {
+  position: absolute;
+  height: 26.67%;
+  width: 4.36%;
+  top: 36.67%;
+  right: 3.83%;
+  bottom: 36.67%;
+  left: 91.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.your-shop1 {
+  position: absolute;
+  top: 31.67%;
+  left: 21.64%;
+  font-weight: 500;
+}
+.rectangle-parent3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-child21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lemonchiffon);
+  width: 40px;
+  height: 40px;
+}
+.mdishop-outline-icon {
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  top: 30%;
+  right: 30%;
+  bottom: 30%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent10,
+.rectangle-parent4 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+.group-parent10 {
+  height: 10.64%;
+  width: 100%;
+  top: 25.53%;
+  right: 0;
+  bottom: 63.83%;
+  left: 0;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-ibm-plex-sans);
+}

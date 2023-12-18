@@ -1,0 +1,190 @@
+.product-child3 {
+  position: absolute;
+  top: 165px;
+  left: 10px;
+  width: 113px;
+  height: 36px;
+}
+.full-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.2px;
+  font-weight: 500;
+}
+.ptcnihal {
+  position: absolute;
+  top: 9.52%;
+  left: 78.79%;
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  color: var(--color-darkgray-100);
+}
+.full-name-parent {
+  position: absolute;
+  top: 23px;
+  left: 16px;
+  width: 297px;
+  height: 21px;
+}
+.div39 {
+  position: absolute;
+  top: 9.52%;
+  left: 71.04%;
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  color: var(--color-darkgray-100);
+}
+.contact-no-parent {
+  position: absolute;
+  top: 74px;
+  left: 16px;
+  width: 297px;
+  height: 21px;
+}
+.samplegmailcom {
+  position: absolute;
+  top: 9.52%;
+  left: 57.24%;
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  color: var(--color-darkgray-100);
+}
+.email-parent {
+  position: absolute;
+  top: 125px;
+  left: 16px;
+  width: 297px;
+  height: 21px;
+}
+.change-password- {
+  position: absolute;
+  top: 50.26%;
+  left: 4.65%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-goldenrod);
+  cursor: pointer;
+}
+.product-child4 {
+  position: absolute;
+  top: 61.5px;
+}
+.product-child4,
+.product-child5,
+.product-child6 {
+  left: 0.5px;
+  border-top: 1px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+  width: 343px;
+  height: 1px;
+}
+.product-child5 {
+  position: absolute;
+  top: 111.5px;
+}
+.product-child6 {
+  top: 164.5px;
+}
+.div40,
+.product-child6,
+.shops {
+  position: absolute;
+}
+.shops {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.2px;
+  font-weight: 500;
+}
+.div40 {
+  top: 4.76%;
+  left: 93.92%;
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  color: var(--color-darkgray-100);
+}
+.shops-parent {
+  position: absolute;
+  height: 15.33%;
+  width: 86.55%;
+  top: 0;
+  right: 9.06%;
+  bottom: 84.67%;
+  left: 4.39%;
+  font-size: var(--font-size-base);
+  color: var(--primary-navy-black);
+}
+.div41 {
+  position: absolute;
+  top: 4.76%;
+  left: 93.6%;
+  line-height: 18px;
+}
+.job-vacancies2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.2px;
+  font-weight: 500;
+  color: var(--primary-navy-black);
+}
+.group,
+.parent {
+  position: absolute;
+  height: 15.33%;
+  width: 86.84%;
+  top: 37.23%;
+  right: 8.77%;
+  bottom: 47.45%;
+  left: 4.39%;
+}
+.group {
+  top: 74.45%;
+  bottom: 10.22%;
+}
+.group-child15,
+.group-child16,
+.group-child17 {
+  position: absolute;
+  top: 33.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+  width: 343px;
+  height: 1px;
+}
+.group-child16,
+.group-child17 {
+  top: 83.5px;
+}
+.group-child17 {
+  top: 136.5px;
+}
+.group-parent8 {
+  position: absolute;
+  height: 35.86%;
+  width: 99.42%;
+  top: 64.14%;
+  right: 0.29%;
+  bottom: 0;
+  left: 0.29%;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.product3 {
+  position: absolute;
+  top: 124px;
+  left: 16px;
+  border-radius: var(--br-3xs);
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  width: 344px;
+  height: 382px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

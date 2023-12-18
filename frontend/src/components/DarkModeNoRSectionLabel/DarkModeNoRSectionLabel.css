@@ -1,0 +1,97 @@
+.desc,
+.space,
+.title1 {
+  position: relative;
+  flex-shrink: 0;
+}
+.space {
+  align-self: stretch;
+  width: 16px;
+  overflow: hidden;
+}
+.desc,
+.title1 {
+  width: 167px;
+}
+.title1 {
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.desc {
+  font-size: var(--default-caption1-regular-size);
+  line-height: 16px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  height: 14px;
+}
+.title-desc {
+  flex: 1;
+  border-bottom: 0.5px solid var(--system-colours-separator-non-opaque-light);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.label {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  text-align: left;
+}
+.right-icon-22pt-iphone {
+  position: relative;
+  width: 26px;
+  height: 26px;
+  font-size: var(--default-title2-regular-size);
+  color: var(--system-colours-default-colors-systemblue-light);
+  font-family: var(--default-title2-regular);
+}
+.chevronright {
+  position: relative;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.chevron-13pt-iphone,
+.label-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.chevron-13pt-iphone {
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: var(--default-footnote-bold-size);
+  color: var(--system-colours-label-colour-tertiary-light);
+}
+.label-parent {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-7xs);
+}
+.div {
+  position: relative;
+  letter-spacing: 0.35px;
+  line-height: 28px;
+  display: inline-block;
+  width: 26px;
+  flex-shrink: 0;
+}
+.dark-modeno-r-sectionlabel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dark-modeno-r-sectionlabel {
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  width: 390px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--default-body-regular-size);
+  color: var(--system-colours-label-colour-primary-light);
+  font-family: var(--default-body-regular);
+}

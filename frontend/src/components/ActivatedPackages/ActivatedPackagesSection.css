@@ -1,0 +1,39 @@
+.group-child19 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lemonchiffon);
+}
+.group-child19,
+.group-wrapper,
+.rectangle-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.group-wrapper {
+  top: 10px;
+  left: 10px;
+}
+.material-symbolspackage-outli-icon {
+  position: absolute;
+  top: 22px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.group-parent9 {
+  position: absolute;
+  height: 10.64%;
+  width: 100%;
+  top: 12.77%;
+  right: 0;
+  bottom: 76.6%;
+  left: 0;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-ibm-plex-sans);
+}

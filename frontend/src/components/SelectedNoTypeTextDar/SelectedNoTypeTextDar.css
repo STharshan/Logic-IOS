@@ -1,0 +1,19 @@
+.label-1 {
+  position: relative;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  margin-left: -10px;
+  width: 95px;
+  text-align: center;
+}
+.selectedno-typetext-dar {
+  border-radius: var(--br-7xs);
+  padding: var(--padding-8xs) var(--padding-24xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--default-footnote-bold-size);
+  color: var(--system-colours-label-colour-primary-light);
+  font-family: var(--default-body-regular);
+  align-self: stretch;
+
+}

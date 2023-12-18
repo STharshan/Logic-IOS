@@ -1,0 +1,27 @@
+.icon-box-parent {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 400px;
+  height: 76px;
+}
+.categories {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  font-size: var(--font-size-base);
+  line-height: 25px;
+  font-weight: 500;
+  text-align: left;
+}
+.group-parent13 {
+  position: absolute;
+  top: 304px;
+  left: 0;
+  width: 400px;
+  height: 117px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

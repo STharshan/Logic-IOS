@@ -1,0 +1,118 @@
+.group-child {
+    position: absolute;
+    top: 23px;
+    left: -10px;
+    border-radius: var(--br-xs);
+    background-color: var(--color-white);
+    width: 290px;
+    height: 40px;
+    background-color: white;
+
+  }
+  .mingcutelocation-fill-icon {
+    position: absolute;
+    top: 34px;
+    left: 238px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .areas-that-can {
+    position: absolute;
+    top: 0;
+    left: -10px;
+    color: black;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 27px;
+    left: 49px;
+    width: 342px;
+    height: 65px;
+  }
+  .mingcutelocation-fill-icon1 {
+    position: absolute;
+    top: 34px;
+    left: 238px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .rectangle-container,
+  .rectangle-group {
+    position: absolute;
+    top: 360px;
+    left: 49px;
+    width: 342px;
+    height: 65px;
+  }
+  .rectangle-container {
+    top: 142px;
+  }
+  .mingcutelocation-fill-icon3 {
+    position: absolute;
+    top: 34px;
+    left: 238px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .group-div {
+    position: absolute;
+    top: 555px;
+    left: 53px;
+    width: 342px;
+    height: 65px;
+  }
+  .group-child1 {
+    position: absolute;
+    top: 263px;
+    left: 69px;
+  }
+  .group-child1 {
+    top: 0;
+    left: 0;
+    border-radius: 6px;
+    background-color: #e8bc57;
+    width: 120px;
+    height: 36px;
+  }
+  .colombo1 {
+    position: absolute;
+    top: 7px;
+    left: 16px;
+    font-weight: 600;
+  }
+  .icround-close-icon {
+    position: absolute;
+    top: 8px;
+    left: 88px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 580px;
+    left: 53px;
+    width: 120px;
+    height: 36px;
+    font-size: 16px;
+    color: var(--color-white);
+  }
+  .group-parent {
+    position: relative;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 780px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-ibm-plex-sans);
+  }
+  

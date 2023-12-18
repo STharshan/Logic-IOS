@@ -1,0 +1,85 @@
+.your-shops {
+  position: absolute;
+  top: -5px;
+  left: 35.5px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-weight: 600;
+  width: 100px;
+}
+.regularangle-small-left-icon13 {
+  position: absolute;
+  top: -6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.your-shops-parent {
+  position: absolute;
+  top: 60px;
+  left: 15px;
+  width: 121.5px;
+  height: 24px;
+}
+.lucideplus-icon7 {
+  position: absolute;
+  top: 48px;
+  left: 246px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.your-shop {
+  position: relative;
+  background-color: var(--system-colours-default-colors-systemgrey-6-light);
+  width: 100%;
+  height: 812px;
+
+}
+
+/*extra*/
+.contractor-name {
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.roof-design1{
+  color: var(--color-goldenrod);
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.product-inner5 {
+  top: 165px;
+  left: 10px;
+  width: 113px;
+  height: 36px;
+}
+.product-child77 {
+  margin-top: 25px;
+  margin-left: 15px;
+  height: 100px;
+  width: 80%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.product5 {
+  margin-top: 25px;
+  margin-left: 12px;
+  border-radius: var(--br-3xs);
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  width: 163px;
+  height: 201px;
+}
+
+.product55{
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+} 

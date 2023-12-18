@@ -1,0 +1,70 @@
+.group-child24 {
+  position: absolute;
+  height: 103.33%;
+  width: 100.58%;
+  top: -1.67%;
+  right: -0.29%;
+  bottom: -1.67%;
+  left: -0.29%;
+  border-radius: var(--br-xs);
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  border: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+}
+.help2 {
+  position: absolute;
+  top: 31.67%;
+  left: 21.64%;
+  font-weight: 500;
+}
+.rectangle-parent6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-child25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lemonchiffon);
+  width: 40px;
+  height: 40px;
+}
+.material-symbolslogout-icon {
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  top: 35%;
+  right: 30%;
+  bottom: 25%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent12,
+.rectangle-parent7 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+.group-parent12 {
+  height: 10.64%;
+  width: 100%;
+  top: 76.6%;
+  right: 0;
+  bottom: 12.77%;
+  left: 0;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-ibm-plex-sans);
+}

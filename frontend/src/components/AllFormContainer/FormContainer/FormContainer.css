@@ -1,0 +1,87 @@
+.icbaseline-email-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.card5,
+.card6 {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.card6 {
+  border-radius: var(--br-11xs);
+  background-color: var(--system-colours-default-colors-systemgrey-6-light);
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.card5 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.title16 {
+  position: relative;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  display: inline-block;
+  width: 250px;
+}
+.samplemailgmailcom {
+  margin: 0;
+}
+.subheading6 {
+  position: relative;
+  font-size: var(--default-subheadline-regular-size);
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  color: var(--system-colours-label-colour-primary-light);
+  display: inline-block;
+  width: 250px;
+}
+.card-text4,
+.text5 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-text4 {
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.chevron4 {
+  position: relative;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  font-weight: 600;
+  font-family: var(--default-body-regular);
+  color: var(--system-colours-label-colour-tertiary-light);
+  text-align: right;
+  display: none;
+}
+.cards-iphone2 {
+  position: absolute;
+  top: 332px;
+  left: 16px;
+  border-radius: var(--br-xs);
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  width: 343px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-base) var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-smi);
+  text-align: left;
+  font-size: var(--default-footnote-bold-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-dm-sans);
+}

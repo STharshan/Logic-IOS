@@ -1,0 +1,35 @@
+.help1 {
+  position: absolute;
+  top: 2px;
+  left: 33px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.regularangle-small-left-icon19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.help-parent,
+.instance-parent {
+  position: absolute;
+  top: 50px;
+  left: 16px;
+  width: 69px;
+  height: 24px;
+}
+.instance-parent {
+  top: 0;
+  left: -1px;
+  width: 375px;
+  height: 99px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--system-colours-label-colour-primary-light);
+  font-family: var(--font-dm-sans);
+}

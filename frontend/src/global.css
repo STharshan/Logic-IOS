@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gilroy-Regular:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Text:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-gilroy-regular: Gilroy-Regular;
+  --font-dm-sans: "DM Sans";
+  --default-body-regular: "SF Pro Text";
+  --default-title2-regular: "SF Pro Display";
+  --font-inter: Inter;
+  --font-ibm-plex-sans: "IBM Plex Sans";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-sm: 14px;
+  --default-body-regular-size: 17px;
+  --default-title2-regular-size: 22px;
+  --default-footnote-bold-size: 13px;
+  --default-caption1-regular-size: 12px;
+  --font-size-2xl: 21px;
+  --default-largetitle-bold-size: 34px;
+  --default-subheadline-regular-size: 15px;
+  --font-size-6xl: 25px;
+  --font-size-3xs: 10px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --system-colours-default-colors-systemwhiteblack-light: #fff;
+  --secondary-off-grey: #fafafa;
+  --system-colours-default-colors-systemgrey-1-light: #8e8e93;
+  --color-gray-100: #8b8b8b;
+  --secondary-dark-grey: #838589;
+  --color-gray-200: #2d2b2e;
+  --primary-navy-black: #0c1a30;
+  --color-gray-400: rgba(0, 0, 0, 0.57);
+  --color-gray-300: rgba(0, 0, 0, 0.04);
+  --system-colours-fill-colour-tertiary-light: rgba(118, 118, 128, 0.12);
+  --primary-blue-ocean: #3669c9;
+  --system-colours-default-colors-systemblue-light: #007aff;
+  --system-colours-separator-opaque-light: rgba(60, 60, 67, 0.36);
+  --system-colours-label-colour-tertiary-light: rgba(60, 60, 67, 0.3);
+  --color-darkslategray-100: rgba(60, 60, 67, 0.6);
+  --system-colours-separator-non-opaque-light: #c6c6c8;
+  --secondary-half-grey: #c4c5c4;
+  --system-colours-label-colour-primary-light: #000;
+  --color-goldenrod: #f4b421;
+  --system-colours-default-colors-systemgrey-6-light: #f2f2f7;
+  --label-off-green: #eefaf6;
+  --secondary-earth-green: #3a9b7a;
+  --color-darkgray-100: #b1b1b1;
+  --color-darkgray-200: #a19f9f;
+  --color-darkgray-300: #9f9f9f;
+  --color-forestgreen: #189a3c;
+  --color-mediumseagreen: #0acf83;
+  --color-whitesmoke-100: #f8f9f6;
+  --color-whitesmoke-200: #efefef;
+  --color-whitesmoke-300: #ebebeb;
+  --color-darkslateblue: #184dad;
+  --color-gainsboro: #d9d9d9;
+  --color-dimgray-100: #706d6d;
+  --color-dimgray-200: #515151;
+  --color-tomato: #ff5e5e;
+  --color-lemonchiffon: #fff7cb;
+  --secondary-light-green: #e4f3ea;
+  --secondary-light-orange: #ffece8;
+  --secondary-light-yellow: #fff6e4;
+  --secondary-light-purple: #f1edfc;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-sm: 14px;
+  --gap-7xs: 6px;
+  --gap-mini: 15px;
+  --gap-11xs: 2px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+  --gap-9xs: 4px;
+  --gap-8xs: 5px;
+  --gap-3xs: 10px;
+  --gap-10xs: 3px;
+  --gap-smi: 13px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-xl: 20px;
+  --padding-6xs: 7px;
+  --padding-sm: 14px;
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+  --padding-3xs: 10px;
+  --padding-4xs: 9px;
+  --padding-8xs: 5px;
+  --padding-9xs: 4px;
+  --padding-11xs: 2px;
+  --padding-24xl: 43px;
+  --padding-mini: 15px;
+  --padding-134xl: 153px;
+  --padding-12xs: 1px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-6xs: 7px;
+  --br-7xs: 6px;
+  --br-12xs-5: 0.5px;
+  --br-81xl: 100px;
+  --br-9xs: 4px;
+  --br-11xs: 2px;
+  --br-xs: 12px;
+
+  /* Effects */
+  --card-buttom-menu: 0px -1px 4px rgba(0, 0, 0, 0.05);
+}

@@ -1,0 +1,52 @@
+.guysimmmonsgmailcom {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 251px;
+  flex-shrink: 0;
+}
+.ic-hide-pass-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-top: 54px;
+  margin-left: 280px;
+}
+.guysimmmonsgmailcom-group {
+  position: absolute;
+  height: 56.18%;
+  width: 100%;
+  top: 43.82%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--secondary-off-grey);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+}
+.top-investment-strat1 {
+  position: absolute;
+  height: 21.35%;
+  width: 78.65%;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+}
+.property-1field-pass-view {
+  width: 325px;
+  height: 89px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

@@ -1,0 +1,41 @@
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.35px;
+  line-height: 28px;
+}
+.icon2 {
+  position: relative;
+  width: 16px;
+  height: 28px;
+}
+.left-title1 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.label3,
+.sf-or-svgsf-labelon1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.label3 {
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-4xs);
+  margin-left: 5px;
+  text-align: left;
+  font-size: var(--default-body-regular-size);
+  font-family: var(--default-body-regular);
+}
+.sf-or-svgsf-labelon1 {
+  height: 44px;
+  align-items: center;
+  padding: var(--padding-3xs) 0 var(--padding-3xs) var(--padding-6xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--default-title2-regular-size);
+  color: var(--system-colours-default-colors-systemblue-light);
+  font-family: var(--default-title2-regular);
+}

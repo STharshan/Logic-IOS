@@ -1,0 +1,158 @@
+.icons-bar32 {
+  position: absolute;
+  left: 0;
+  width: 375px;
+  height: 100px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-inter);
+  overflow:initial;
+  
+}
+.icons-bar-child62 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--primary-pure-white);
+  box-shadow: 0 5px 22px -4px rgba(0, 0, 0, 0.25);
+}
+
+.international-parent30 {
+  position: absolute;
+  height: 56%;
+  width: 13.72%;
+  top: 10%;
+  right: 55.12%;
+  bottom: 16%;
+  left: 31.16%;
+  cursor: pointer;
+  color: var(--color-darkgray-100);
+}
+
+.international32 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+
+.icon-park-outlineinternationa32 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+
+.courses-parent30 {
+  position: absolute;
+  height: 56%;
+  width: 9.3%;
+  top: 10%;
+  right: 33.02%;
+  bottom: 16%;
+  left: 57.67%;
+  cursor: pointer;
+  color: var(--color-darkgray-100);
+}
+
+.tdesigneducation-icon32 {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+
+.vacancies32 {
+  position: absolute;
+  top: 49%;
+  left: 0;
+}
+
+.vacancies-parent30 {
+  position: absolute;
+  height: 57.33%;
+  width: 11.16%;
+  top: 10%;
+  right: 7.67%;
+  bottom: 16%;
+  left: 81.16%;
+  cursor: pointer;
+  color: var(--color-darkgray-100);
+}
+
+.mdiuser-search-outline-icon32 {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+
+.home-parent61 {
+  position: absolute;
+  height: 57.33%;
+  width: 6.74%;
+  top: 15%;
+  right: 83.02%;
+  bottom: 16%;
+  left: 10.23%;
+  cursor: pointer;
+  color: var(--color-darkgray-100);
+}
+
+.vector-icon45 {
+  height: 37.04%;
+  width: 47.5%;
+  top: 0;
+  right: 26.43%;
+  bottom: 62.96%;
+  left: 26.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tdesigneducation-icon30 {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.vector-icon47 {
+  width: 15.333px;
+  height: 19px;
+  right: 26.43%;
+  margin-top: -3px;
+  margin-left: 32.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.home98,
+.vector-icon45 {
+  position: absolute;
+  top: 42%;
+  left: 2px;
+}
+
+.border{
+  color: rgba(0,0,0,1);
+  width: 139px;
+  height: 5px;
+  border-radius: 100px;
+  background: var(--ios-home-indicator-indicator-color, #000);
+  margin-left: 5px;
+  margin-top: 70px;
+}
+
+
+

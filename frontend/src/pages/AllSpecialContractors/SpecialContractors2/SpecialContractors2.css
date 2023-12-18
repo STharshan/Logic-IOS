@@ -1,0 +1,56 @@
+.all-special-contractors,
+.items3 {
+  position: absolute;
+  top: 304px;
+  left: 16px;
+  line-height: 25px;
+  font-weight: 500;
+}
+.items3 {
+  top: 307px;
+  left: 303px;
+  font-size: var(--default-caption1-regular-size);
+  line-height: 22px;
+  color: var(--color-goldenrod);
+  text-align: right;
+}
+.banner-default3 {
+  position: absolute;
+  width: calc(100% - 32px);
+  top: calc(50% + 58px);
+  right: 16px;
+  left: 16px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  height: 150px;
+}
+.special-contractors3 {
+  position: absolute;
+  top: 52px;
+  left: 51.5px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-weight: 600;
+  color: var(--system-colours-label-colour-primary-light);
+  text-align: center;
+}
+.regularangle-small-left-icon18 {
+  position: absolute;
+  top: 50px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.special-contractors2 {
+  position: relative;
+  background-color: var(--system-colours-default-colors-systemgrey-6-light);
+  width: 100%;
+  height: 1510px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

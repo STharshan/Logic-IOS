@@ -1,0 +1,115 @@
+.space-icon {
+  align-self: stretch;
+  position: relative;
+  max-height: 100%;
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.avatar-large-iphone {
+  position: relative;
+  width: 45px;
+  height: 45px;
+}
+.person-avatar,
+.title2 {
+  display: flex;
+  align-items: center;
+}
+.person-avatar {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+}
+.title2 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 600;
+  height: 20px;
+}
+.chevronright1,
+.label4 {
+  position: relative;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.chevronright1 {
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.chevron-13pt-iphone1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-chevron,
+.label-group,
+.name-or-number-time {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.icon-chevron {
+  align-items: center;
+  text-align: center;
+  font-size: var(--default-footnote-bold-size);
+  color: var(--system-colours-label-colour-tertiary-light);
+}
+.label-group,
+.name-or-number-time {
+  gap: var(--gap-5xs);
+}
+.label-group {
+  align-items: center;
+  font-size: var(--default-subheadline-regular-size);
+  color: var(--color-darkslategray-100);
+}
+.name-or-number-time {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.desc1 {
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+}
+.desc-wrapper {
+  align-self: stretch;
+  height: 32px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+  font-size: var(--default-caption1-regular-size);
+  color: var(--color-darkslategray-100);
+}
+.dark-modeno-slideno,
+.desc-wrapper,
+.title-desc1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.title-desc1 {
+  flex: 1;
+  border-bottom: 0.5px solid var(--system-colours-separator-non-opaque-light);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-xs) var(--padding-base) var(--padding-xs) 0;
+  gap: var(--gap-11xs);
+}
+.dark-modeno-slideno {
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  width: 390px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  text-align: left;
+  font-size: var(--default-body-regular-size);
+  color: var(--system-colours-label-colour-primary-light);
+  font-family: var(--default-body-regular);
+}

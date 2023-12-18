@@ -1,0 +1,34 @@
+.action,
+.time {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.17px;
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+}
+.action {
+  top: 14px;
+  left: 19.9px;
+  height: 18px;
+}
+.container-icon {
+  position: absolute;
+  top: calc(50% - 5.8px);
+  left: 250px;
+  width: 67px;
+  height: 11.5px;
+}
+.property-1black {
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  width: 375px;
+  height: 44px;
+  text-align: center;
+  font-size: var(--default-subheadline-regular-size);
+  color: var(--primary-navy-black);
+  font-family: var(--default-body-regular);
+}

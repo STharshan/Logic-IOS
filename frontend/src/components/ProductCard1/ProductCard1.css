@@ -1,0 +1,108 @@
+.name-here,
+.painting1 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.2px;
+}
+.name-here {
+  top: -12px;
+  left: 15px;
+  font-weight: 500;
+}
+.painting11 {
+  margin-top: 30px;
+  margin-left: 15px;
+  font-size: var(--font-size-base);
+  color: var(--color-goldenrod);
+}
+.years-of-experience {
+  position: absolute;
+  top: 22.22%;
+  left: 15px;
+  width: 300px;
+  font-weight: 500;
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-forestgreen);
+}
+.name-here-parent {
+  position: absolute;
+  top: 140px;
+  left: 9px;
+  width: 113px;
+  height: 36px;
+}
+.product-inner3,
+.vector-icon6 {
+  position: absolute;
+  top: 139px;
+  left: 10px;
+  width: 113px;
+  height: 56px;
+}
+.vector-icon66 {
+  height: 65.36%;
+  width: 15.46%;
+  top: 22.73%;
+  right: 89.54%;
+  bottom: 15.91%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div444 {
+  position: absolute;
+  height: 100%;
+  width: 81.83%;
+  top: 0;
+  left: 22.17%;
+  font-weight: 500;
+  display: inline-block;
+}
+.product-inner4,
+.vector-parent3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.product-inner4 {
+  height: 5.74%;
+  width: 46.93%;
+  top: 88.26%;
+  left: 12.98%;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-100);
+  font-family: var(--font-ibm-plex-sans);
+}
+.ellipse-icon {
+  position: absolute;
+  height: 43.48%;
+  width: 61.35%;
+  top: 9.57%;
+  right: 20.86%;
+  bottom: 46.96%;
+  left: 17.79%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.product444 {
+  position: absolute;
+  top: 349px;
+  left: 16px;
+  border-radius: var(--br-3xs);
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  width: 163px;
+  height: 220px;
+  text-align: left;
+  font-size: var(--default-caption1-regular-size);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

@@ -1,0 +1,107 @@
+.your-job-vacancies1 {
+  position: absolute;
+  top: 2px;
+  left: 35.5px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-weight: 600;
+  width: 200px;
+}
+.regularangle-small-left-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.your-job-vacancies-parent {
+  position: absolute;
+  top: 50px;
+  left: 15px;
+  width: 184.5px;
+  height: 24px;
+}
+.lucideplus-icon6 {
+  position: absolute;
+  top: 50px;
+  left: 246px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.your-job-vacancies-child {
+  position: absolute;
+  top: 124px;
+  left: 16px;
+  border-radius: var(--br-3xs);
+  background-color: rgba(255, 255, 255, 0.67);
+  width: 163px;
+  height: 201px;
+}
+.pending {
+  position: absolute;
+  top: 130px;
+  left: 32px;
+  font-size: var(--font-size-3xs);
+  font-weight: 1000;
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-forestgreen);
+}
+.your-job-vacancies {
+  position: relative;
+  background-color: var(--system-colours-default-colors-systemgrey-6-light);
+  width: 100%;
+  height: 825px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--system-colours-label-colour-primary-light);
+  font-family: var(--font-dm-sans);
+}
+
+/*extra*/
+.contractor-name {
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.roof-design1{
+  color: var(--color-goldenrod);
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.product-inner5 {
+  top: 165px;
+  left: 10px;
+  width: 113px;
+  height: 36px;
+}
+.product-child77 {
+  margin-top: 25px;
+  margin-left: 15px;
+  height: 100px;
+  width: 80%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.product5 {
+  margin-top: 25px;
+  margin-left: 12px;
+  border-radius: var(--br-3xs);
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  width: 163px;
+  height: 201px;
+}
+
+.product55{
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+} 

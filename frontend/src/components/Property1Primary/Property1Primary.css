@@ -1,0 +1,23 @@
+.hi-devina-idzni {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 300px;
+  flex-shrink: 0;
+}
+.property-1primary {
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-blue-ocean);
+  width: 325px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-134xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--system-colours-default-colors-systemwhiteblack-light);
+  font-family: var(--font-dm-sans);
+}

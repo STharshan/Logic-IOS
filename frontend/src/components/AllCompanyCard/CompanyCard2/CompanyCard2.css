@@ -1,0 +1,79 @@
+.company-name-here,
+.div13 {
+  position: absolute;
+  left: 18.42%;
+  line-height: 25px;
+}
+.company-name-here {
+  top: 0;
+  font-weight: 500;
+}
+.div13 {
+  top: 6.9%;
+  font-size: var(--default-caption1-regular-size);
+}
+.ellipse-div,
+.share {
+  position: absolute;
+  left: 0;
+}
+.ellipse-div {
+  top: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 48px;
+  height: 48px;
+}
+.share {
+  top: 40.48%;
+  line-height: 25px;
+}
+.uilshare-icon {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.share-parent {
+  position: absolute;
+  height: 12.07%;
+  width: 7.89%;
+  top: 2.01%;
+  right: 0;
+  bottom: 85.92%;
+  left: 92.11%;
+  font-size: var(--font-size-3xs);
+}
+.group-child11 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 342px;
+  height: 288px;
+  object-fit: cover;
+}
+.company-name-here-parent,
+.group-parent7 {
+  position: absolute;
+  height: 86.35%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 13.65%;
+  left: 0;
+}
+.group-parent7 {
+  height: 37.52%;
+  width: 91.2%;
+  top: 11.55%;
+  right: 4.53%;
+  bottom: 50.93%;
+  left: 4.27%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

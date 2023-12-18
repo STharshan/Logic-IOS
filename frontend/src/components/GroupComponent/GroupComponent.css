@@ -1,0 +1,24 @@
+.title-page-parent {
+  position: relative;
+  width: 100%;
+  height: 99px;
+  background-color: var(--system-colours-default-colors-systemwhiteblack-light);
+}
+
+.header{
+  padding-top: 50px;
+}
+
+.line{
+  margin-left: 16px;
+}
+
+.location{
+  margin-left: 210px;
+  Width: 22px;
+  Height: 22px;
+}
+
+.bell{
+ margin-left: 17px;
+}

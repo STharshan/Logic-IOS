@@ -1,0 +1,89 @@
+.contractors-name-here,
+.roof-design {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.2px;
+}
+.contractors-name-here {
+  top: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 325px;
+}
+.roof-design {
+  top: 42px;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-goldenrod);
+}
+.star-icon {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.star-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+.reviews {
+  position: relative;
+  letter-spacing: 0.2px;
+}
+.frame-group {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.more7 {
+  position: relative;
+  font-weight: 500;
+}
+.frame-parent,
+.more-wrapper {
+  position: absolute;
+  height: 20px;
+}
+.more-wrapper {
+  top: 0;
+  left: 225px;
+  border-radius: var(--br-3xs);
+  background-color: var(--label-off-green);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-11xs) var(--padding-3xs);
+  box-sizing: border-box;
+  text-align: right;
+  font-size: var(--default-caption1-regular-size);
+  color: var(--secondary-earth-green);
+}
+.frame-parent {
+  top: 72px;
+  left: 0;
+  width: 325px;
+  display: none;
+  font-size: var(--font-size-sm);
+}
+.component-1 {
+  position: absolute;
+  top: 454px;
+  left: 16px;
+  width: 343px;
+  height: 62px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

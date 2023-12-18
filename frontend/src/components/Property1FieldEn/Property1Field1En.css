@@ -1,0 +1,46 @@
+.top-investment-strat2 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  width: 255.6px;
+  height: 19px;
+  flex-shrink: 0;
+}
+.guysimmmonsgmailcom1 {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 283px;
+  flex-shrink: 0;
+}
+.guysimmmonsgmailcom-wrapper {
+  border-radius: var(--br-3xs);
+  background-color: var(--secondary-off-grey);
+  width: 325px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+}
+.top-investment-strat-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.property-1field-1-en {
+  width: 325px;
+  height: 89px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

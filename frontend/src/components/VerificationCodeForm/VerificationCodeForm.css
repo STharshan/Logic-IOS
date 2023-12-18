@@ -1,0 +1,90 @@
+.re-send-code {
+  position: absolute;
+  top: 0;
+  left: 229px;
+  line-height: 25px;
+  font-weight: 500;
+  color: var(--color-goldenrod);
+  text-align: right;
+  display: inline-block;
+  width: 96px;
+  height: 19px;
+}
+.rectangle4,
+.rectangle5,
+.rectangle6,
+.rectangle7 {
+  position: absolute;
+  height: 54.35%;
+  width: 22.7%;
+  top: 45.65%;
+  right: 77.3%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--secondary-off-grey);
+}
+.rectangle5,
+.rectangle6,
+.rectangle7 {
+  right: 0;
+  left: 77.3%;
+}
+.rectangle6,
+.rectangle7 {
+  right: 26.07%;
+  left: 51.23%;
+}
+.rectangle7 {
+  right: 51.53%;
+  left: 25.77%;
+}
+.top-investment-strat7 {
+  position: absolute;
+  height: 20.65%;
+  width: 35.28%;
+  top: 3.26%;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.guysimmmonsgmailcom2,
+.guysimmmonsgmailcom3,
+.guysimmmonsgmailcom4,
+.guysimmmonsgmailcom5 {
+  position: absolute;
+  width: 65px;
+  height: 35px;
+  top: 45px;
+  border-radius: 10px;
+  line-height: 18px;
+  font-weight: 500;
+  font-size: 20px;
+  display: flex;
+  text-align: center;
+}
+.guysimmmonsgmailcom3,
+.guysimmmonsgmailcom4,
+.guysimmmonsgmailcom5 {
+  left: 84px;
+}
+.guysimmmonsgmailcom4,
+.guysimmmonsgmailcom5 {
+  left: 167px;
+}
+.guysimmmonsgmailcom5 {
+  left: 252px;
+}
+.re-send-code-parent {
+  position: absolute;
+  top: 314px;
+  left: 24px;
+  width: 326px;
+  height: 92px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

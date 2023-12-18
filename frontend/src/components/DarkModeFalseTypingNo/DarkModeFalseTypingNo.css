@@ -1,0 +1,58 @@
+.icon-magnifyingglass,
+.typeline-icon {
+  position: relative;
+  width: 15.6px;
+  height: 15.8px;
+}
+.typeline-icon {
+  width: 1px;
+  height: 19px;
+}
+.query {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.text {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sf-symbol-microphone {
+  position: relative;
+  width: 11.9px;
+  height: 17.7px;
+}
+.searchfield {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--system-colours-fill-colour-tertiary-light);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-sm) var(--padding-6xs)
+    var(--padding-5xs);
+  gap: var(--gap-7xs);
+}
+.cancel {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  color: var(--system-colours-default-colors-systemblue-light);
+  text-align: right;
+}
+.dark-modefalse-typingno {
+  width: 343px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-sm);
+  text-align: left;
+  font-size: var(--default-body-regular-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--default-body-regular);
+}
